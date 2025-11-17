@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Carter Donogh
 ---
 # About Me
 # Projects
