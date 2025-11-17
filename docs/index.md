@@ -2,11 +2,15 @@
 layout: default
 title: Carter Donogh
 ---
+
 # About Me
 
+I 
+
 # Projects
-- [Tetris](https://github.com/blakeb25/group12-tetris.git)
-- RoadRage
+* Tetris
+* [RoadRage](https://github.com/cartercd/TCSS305-hw2-cartercd.git)
+
 # Skills
 * Java
 * JUnit
@@ -17,4 +21,6 @@ title: Carter Donogh
 # Resume
 
 ### Contact
+
+Email: <cartercdonogh@gmail.com>
 
