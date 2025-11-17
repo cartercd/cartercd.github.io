@@ -23,7 +23,7 @@ email: cartercdonogh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a student majoring in Computer Science at University of Washington Tacoma.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cartercdonogh.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cartercd
 
 # Build settings
