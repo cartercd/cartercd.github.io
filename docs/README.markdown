@@ -1,13 +1,1 @@
----
-layout: default
-title: Carter Donogh
----
-# About Me
-# Projects
-RoadRage
-# Skills
-* Java
-
-# Experience
-# Resume
-### Contact
+This is my portfolio website. The code for the implementation of the website is in index.md.
