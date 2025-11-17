@@ -5,10 +5,10 @@ title: Carter Donogh
 
 # About Me
 
-I 
+I am interested in front end and back end development.
 
 # Projects
-* Tetris
+* Tetris: Work in progress.
 * [RoadRage](https://github.com/cartercd/TCSS305-hw2-cartercd.git)
 
 # Skills
